@@ -4,6 +4,7 @@
 
 # Local/system
 .DS_Store
+**/.phpunit.result.cache
 
 # Backups and dumps
 *.sql
