@@ -21,4 +21,4 @@ jobs:
           REMOTE_PORT: ${{ secrets.CPANEL_PORT }}
           SOURCE: "./public_html/"
           TARGET: ${{ secrets.DEPLOY_PATH }}
-          EXCLUDE: "/.git/, /.github/, /.env, /admin/.env, /public/uploads/, /public/resume/, /storage/, /node_modules/"
+          EXCLUDE: "/.git/,/.github/,/.env,/admin/.env,/public/uploads/,/public/resume/,/storage/,/node_modules/"
