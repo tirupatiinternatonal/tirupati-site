@@ -1,0 +1,4 @@
+[19-Feb-2026 17:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/tiruinter/public_html/app/Http/Controllers/ContactController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/app/Http/Controllers/ContactController.php on line 13

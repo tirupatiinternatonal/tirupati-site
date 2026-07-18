@@ -1,0 +1,2 @@
+[13-Jan-2023 03:23:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitefinx/public_html/website/routes/options.php:1) in /tmp/phpDsoDTo on line 1
+[13-Jan-2023 05:25:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elitefinx/public_html/website/routes/options.php:1) in /tmp/phperdnGz on line 1

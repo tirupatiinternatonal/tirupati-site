@@ -1,0 +1,23 @@
+# Secrets
+.env
+**/.env
+
+# Local/system
+.DS_Store
+
+# Backups and dumps
+*.sql
+*.zip
+*.tar
+*.tar.gz
+
+# Runtime folders (adjust later per framework)
+public_html/storage/
+public_html/vendor/
+public_html/node_modules/
+public_html/cache/
+public_html/logs/
+
+# User uploads / PII (do not version)
+public_html/public/resume/
+public_html/public/uploads/

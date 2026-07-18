@@ -1,0 +1,28 @@
+[23-Feb-2026 23:15:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[21-Mar-2026 01:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[19-May-2026 11:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[15-Jun-2026 07:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[25-Jun-2026 20:39:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[10-Jul-2026 01:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14
+[15-Jul-2026 05:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tiruinter/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/bootstrap/app.php on line 14

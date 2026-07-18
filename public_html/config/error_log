@@ -1,0 +1,784 @@
+[05-Jan-2024 21:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[11-Jan-2024 08:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[11-Jan-2024 14:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[13-Jan-2024 18:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[13-Jan-2024 21:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[13-Jan-2024 23:01:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[14-Jan-2024 00:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[23-Feb-2026 23:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[23-Feb-2026 23:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[23-Feb-2026 23:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[23-Feb-2026 23:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[23-Feb-2026 23:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[23-Feb-2026 23:15:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[23-Feb-2026 23:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[23-Feb-2026 23:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[23-Feb-2026 23:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[23-Feb-2026 23:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[23-Feb-2026 23:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[16-Mar-2026 23:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[21-Mar-2026 00:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[21-Mar-2026 00:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[21-Mar-2026 00:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[21-Mar-2026 00:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[21-Mar-2026 01:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[21-Mar-2026 01:21:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[21-Mar-2026 01:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[21-Mar-2026 01:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[21-Mar-2026 01:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[21-Mar-2026 01:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[21-Mar-2026 01:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[22-Mar-2026 22:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[24-Mar-2026 19:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[24-Mar-2026 19:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[24-Mar-2026 19:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[01-Apr-2026 10:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[01-Apr-2026 22:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[01-Apr-2026 22:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[01-Apr-2026 22:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[01-Apr-2026 22:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[02-Apr-2026 01:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[02-Apr-2026 01:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[02-Apr-2026 01:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[02-Apr-2026 01:05:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[02-Apr-2026 01:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[02-Apr-2026 01:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[02-Apr-2026 01:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[02-Apr-2026 01:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[03-Apr-2026 12:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[03-Apr-2026 12:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[03-Apr-2026 12:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[06-Apr-2026 09:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[06-Apr-2026 09:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[06-Apr-2026 09:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[06-Apr-2026 09:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[23-Apr-2026 15:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[23-Apr-2026 15:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[23-Apr-2026 15:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[23-Apr-2026 15:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[23-Apr-2026 15:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[23-Apr-2026 15:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[23-Apr-2026 15:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[23-Apr-2026 15:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[28-Apr-2026 13:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[28-Apr-2026 13:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[28-Apr-2026 13:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[28-Apr-2026 13:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[28-Apr-2026 13:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[28-Apr-2026 13:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[28-Apr-2026 13:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[28-Apr-2026 13:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[19-May-2026 11:13:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[19-May-2026 11:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[19-May-2026 11:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[21-May-2026 17:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[21-May-2026 17:57:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[21-May-2026 17:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[21-May-2026 17:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[22-May-2026 11:31:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[22-May-2026 11:31:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[25-May-2026 01:11:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[25-May-2026 01:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[25-May-2026 01:11:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[25-May-2026 01:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[25-May-2026 01:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[25-May-2026 01:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[25-May-2026 01:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[25-May-2026 01:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[25-May-2026 01:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[25-May-2026 01:11:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[03-Jun-2026 09:39:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[03-Jun-2026 09:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[03-Jun-2026 09:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[03-Jun-2026 09:39:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[03-Jun-2026 09:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[03-Jun-2026 09:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[03-Jun-2026 09:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[03-Jun-2026 09:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[03-Jun-2026 09:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[03-Jun-2026 09:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[03-Jun-2026 20:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[03-Jun-2026 20:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[04-Jun-2026 21:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[12-Jun-2026 18:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[12-Jun-2026 18:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[15-Jun-2026 07:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[15-Jun-2026 07:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[15-Jun-2026 07:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[15-Jun-2026 07:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[15-Jun-2026 07:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[15-Jun-2026 08:36:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[15-Jun-2026 08:38:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[15-Jun-2026 08:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[15-Jun-2026 08:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[15-Jun-2026 08:48:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[20-Jun-2026 23:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[20-Jun-2026 23:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[20-Jun-2026 23:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[20-Jun-2026 23:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[20-Jun-2026 23:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[20-Jun-2026 23:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[20-Jun-2026 23:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[20-Jun-2026 23:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[20-Jun-2026 23:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[20-Jun-2026 23:51:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[20-Jun-2026 23:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[20-Jun-2026 23:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/hashing.php on line 32
+[22-Jun-2026 14:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[22-Jun-2026 14:04:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[22-Jun-2026 14:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[22-Jun-2026 14:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[22-Jun-2026 14:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[22-Jun-2026 16:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[22-Jun-2026 16:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[23-Jun-2026 07:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[25-Jun-2026 20:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[25-Jun-2026 20:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[25-Jun-2026 20:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[25-Jun-2026 20:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[25-Jun-2026 20:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[25-Jun-2026 20:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[25-Jun-2026 20:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[25-Jun-2026 20:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[25-Jun-2026 20:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[25-Jun-2026 20:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20
+[25-Jun-2026 20:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[30-Jun-2026 09:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[30-Jun-2026 09:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[30-Jun-2026 11:47:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[30-Jun-2026 21:02:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[30-Jun-2026 21:02:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[30-Jun-2026 21:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[30-Jun-2026 21:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[30-Jun-2026 21:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[30-Jun-2026 21:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[30-Jun-2026 21:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[30-Jun-2026 21:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[30-Jun-2026 21:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[30-Jun-2026 21:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[01-Jul-2026 22:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[01-Jul-2026 22:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[01-Jul-2026 22:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[01-Jul-2026 22:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[01-Jul-2026 22:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/cache.php on line 18
+[01-Jul-2026 22:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[01-Jul-2026 22:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/session.php on line 21
+[01-Jul-2026 22:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[01-Jul-2026 22:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[01-Jul-2026 22:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[01-Jul-2026 22:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[02-Jul-2026 01:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[02-Jul-2026 02:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[02-Jul-2026 04:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[02-Jul-2026 04:12:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[02-Jul-2026 04:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[02-Jul-2026 04:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[10-Jul-2026 01:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[10-Jul-2026 01:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[10-Jul-2026 02:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[10-Jul-2026 02:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/filesystems.php on line 16
+[10-Jul-2026 02:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[10-Jul-2026 02:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/broadcasting.php on line 18
+[11-Jul-2026 07:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[11-Jul-2026 07:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[11-Jul-2026 22:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[11-Jul-2026 22:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[12-Jul-2026 21:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[13-Jul-2026 09:09:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[14-Jul-2026 07:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[14-Jul-2026 07:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[15-Jul-2026 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/database.php on line 18
+[15-Jul-2026 02:55:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/services.php on line 18
+[15-Jul-2026 05:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tiruinter/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/view.php on line 17
+[15-Jul-2026 05:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/mail.php on line 16
+[16-Jul-2026 01:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/queue.php on line 16
+[16-Jul-2026 02:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/app.php on line 16
+[16-Jul-2026 02:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tiruinter/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tiruinter/public_html/config/logging.php on line 20

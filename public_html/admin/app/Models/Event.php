@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+class Event extends Model
+{
+	use HasFactory;
+	protected $table = "event_image"; //table name
+	
+	protected $fillable = ['id','event_name','photo','type','status',];
+	
+}
