@@ -67,10 +67,6 @@
     <!-- template css -->
     <link rel="stylesheet" href="public/assets/css/insuco.css">
     <!--<link rel="stylesheet" href="public/assets/css/reset.css">-->
-
-
-
-    <link rel="stylesheet" href="styles.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.8/jquery.inputmask.min.js"></script>
 </head>
@@ -1224,7 +1220,8 @@
                         <div class="cd-hero__content cd-hero__content--full-width">
                             <h2>SSL secured</h2>
                             <p>SSL certificates encrypt data sent between <br />a browser and a website or between
-                                <br />two servers, preventing hackers <br />from reading or modifying it.</p>
+                                <br />two servers, preventing hackers <br />from reading or modifying it.
+                            </p>
                             <p>This creates a safer experience for both <br />businesses and customers.</p>
 
                             <a href="https://www.tirupati-international.in/abouts"
@@ -2341,7 +2338,8 @@
                             <div class="mc-form__response"></div>
 
                             <p class="newssubs">Plz subscribe to our newsletter to be updated with the latest news
-                                <br />related to Tirupati International.</p>
+                                <br />related to Tirupati International.
+                            </p>
 
                         </div>
                     </div>
@@ -3212,6 +3210,12 @@
 </script>
 <script src="public/assets/js/jquery-3.6.1.min.js"></script>
 <script src="public/assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>
+    // Prevent hard runtime failures if inputmask fails to load.
+    if (window.jQuery && !jQuery.fn.inputmask) {
+        jQuery.fn.inputmask = function () { return this; };
+    }
+</script>
 <script src="public/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
 <script src="public/assets/vendors/jquery-validated/jquery.validate.min.js"></script>
 <script src="public/assets/vendors/jquery-nice-select/js/jquery.nice-select.min.js"></script>
@@ -3222,8 +3226,9 @@
 <script src="public/assets/vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
 <script src="public/assets/vendors/ion.rangeSlider/js/ion.rangeSlider.min.js"></script>
 <script src="public/assets/vendors/wow/wow.js"></script>
-<script src="public/assets/vendors/heroslider/js/heroslider.js"></script>
-<script src="public/assets/vendors/vanilla-carousel/js/script.js"></script>
+<!-- Disabled temporarily to avoid null-reference crashes on pages without required slider DOM -->
+<!-- <script src="public/assets/vendors/heroslider/js/heroslider.js"></script> -->
+<!-- <script src="public/assets/vendors/vanilla-carousel/js/script.js"></script> -->
 <script src="public/assets/vendors/mosaic/js/jquery.mosaic.min.js"></script>
 <script src="public/assets/vendors/fullscreen-slideshow/js/script.js"></script>
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.7/jquery.inputmask.min.js"></script>-->
