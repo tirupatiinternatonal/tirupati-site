@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tiruinter/public_html
-    - /bin/cp -R public_html/* $DEPLOYPATH
+    - /usr/bin/rsync -av --delete --exclude='.git/' --exclude='.github/' --exclude='.env' --exclude='admin/.env' --exclude='public/uploads/' --exclude='public/resume/' --exclude='storage/' --exclude='node_modules/' public_html/ "$DEPLOYPATH/"
