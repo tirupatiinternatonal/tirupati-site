@@ -70,10 +70,6 @@
     <!-- template css -->
     <link rel="stylesheet" href="public/assets/css/insuco.css">
     <!--<link rel="stylesheet" href="public/assets/css/reset.css">-->
-
-
-
-    <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body class="">
@@ -100,6 +96,12 @@
 <script src="public/assets/js/jquery-3.6.1.min.js"></script>
 <script src="public/assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.8/jquery.inputmask.min.js"></script>
+<script>
+    // Prevent hard runtime failures if inputmask fails to load.
+    if (window.jQuery && !jQuery.fn.inputmask) {
+        jQuery.fn.inputmask = function () { return this; };
+    }
+</script>
 <script src="public/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
 <script src="public/assets/vendors/jquery-validated/jquery.validate.min.js"></script>
 <script src="public/assets/vendors/jquery-nice-select/js/jquery.nice-select.min.js"></script>
@@ -111,8 +113,9 @@
 <script src="public/assets/vendors/ion.rangeSlider/js/ion.rangeSlider.min.js"></script>
 <script src="public/assets/vendors/wow/wow.js"></script>
 @if(request()->is('/') || request()->routeIs('welcome'))
-    <script src="public/assets/vendors/heroslider/js/heroslider.js"></script>
-    <script src="public/assets/vendors/vanilla-carousel/js/script.js"></script>
+    <!-- Disabled temporarily to avoid null-reference crashes on pages without required slider DOM -->
+    <!-- <script src="public/assets/vendors/heroslider/js/heroslider.js"></script> -->
+    <!-- <script src="public/assets/vendors/vanilla-carousel/js/script.js"></script> -->
 @endif
 <script src="public/assets/vendors/mosaic/js/jquery.mosaic.min.js"></script>
 <script src="public/assets/vendors/fullscreen-slideshow/js/script.js"></script>
