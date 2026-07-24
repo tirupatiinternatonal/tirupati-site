@@ -592,6 +592,10 @@ $canonicalUrl = '';
 
 
                         <li class="nav-item ">
+                            <a class="nav-link" href="https://www.tirupati-international.in/enquiry">Enquiry</a>
+                        </li>
+
+                        <li class="nav-item ">
                             <a class="nav-link" href="https://www.tirupati-international.in/contact">Contact</a>
                         </li>
 
@@ -1226,6 +1230,13 @@ $canonicalUrl = '';
                                 </span>
                             </a>
 
+                            <a href="https://www.tirupati-international.in/enquiry"
+                                class="cd-hero__btn cd-hero__btn--secondary">
+                                <span>
+                                    Send Enquiry
+                                </span>
+                            </a>
+
                             <a href="https://youtu.be/vXfoQud4x4c" class="cd-hero__btn cd-hero__btn--secondary"
                                 target="_blank">
                                 <span>
@@ -1337,7 +1348,8 @@ $canonicalUrl = '';
                         <div class="cd-hero__content cd-hero__content--full-width">
                             <h2>SSL secured</h2>
                             <p>SSL certificates encrypt data sent between <br />a browser and a website or between
-                                <br />two servers, preventing hackers <br />from reading or modifying it.</p>
+                                <br />two servers, preventing hackers <br />from reading or modifying it.
+                            </p>
                             <p>This creates a safer experience for both <br />businesses and customers.</p>
 
                             <a href="https://www.tirupati-international.in/abouts"
@@ -2476,7 +2488,8 @@ $canonicalUrl = '';
                             <div class="mc-form__response"></div>
 
                             <p class="newssubs">Plz subscribe to our newsletter to be updated with the latest news
-                                <br />related to Tirupati International.</p>
+                                <br />related to Tirupati International.
+                            </p>
 
                         </div>
                     </div>
